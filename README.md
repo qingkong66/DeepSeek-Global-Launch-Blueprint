@@ -69,5 +69,18 @@ Everyone is welcome to contribute! You can join by:
 We are DeepSeek users who firmly believe in technology for everyone. This repository represents our active support and anticipation—we don't just make suggestions, we invest time and wisdom to build this milestone moment together with you.
 
 ---
+
+## 📜 重要声明 / Important Disclaimer
+
+**本项目是由DeepSeek爱好者自发创建的社区项目，独立运营，与DeepSeek官方团队无任何隶属关系。**
+**This is a community project created by DeepSeek enthusiasts, independently operated, and not affiliated with the official DeepSeek team.**
+
+- 所有内容均旨在以建设性的方式汇集社区智慧，为DeepSeek生态的发展贡献力量。
+- All content is intended to aggregate community wisdom in a constructive manner and contribute to the DeepSeek ecosystem.
+- 项目内的任何观点、建议与讨论，均不代表DeepSeek官方的立场。
+- Any views, suggestions, and discussions within this project do not represent the official stance of DeepSeek.
+- 我们全力支持并尊重DeepSeek官方团队。获取最权威的信息，请访问其官方网站：**[https://deepseek.com](https://deepseek.com)**
+- We fully support and respect the official DeepSeek team. For the most authoritative information, please visit their official website: **[https://deepseek.com](https://deepseek.com)**
+
 *本仓库由社区自发创建，独立运营。This repository is community-created and independently maintained.*
 
